@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi Human！
+
+I am Sophia Xiao. I am from China.
